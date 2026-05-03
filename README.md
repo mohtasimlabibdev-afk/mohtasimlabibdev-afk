@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mohtasimlabibdev-afk/mohtasimlabibdev-afk/blob/dac4ac3a7193d4217443c44d2a115fe6f7b57f4b/Sleek%20LinkedInGitHub%20Banner%20with%20Modern%20Aesthetic.png" width="100%" alt="Profile Banner">
+</p>
+
 ## Hi there 👋
 
 <!--
